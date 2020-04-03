@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/barcode-gen/static/css/main.26e2baf8.chunk.css",
-    "main.js": "/barcode-gen/static/js/main.3a554cda.chunk.js",
-    "main.js.map": "/barcode-gen/static/js/main.3a554cda.chunk.js.map",
+    "main.js": "/barcode-gen/static/js/main.69274fdd.chunk.js",
+    "main.js.map": "/barcode-gen/static/js/main.69274fdd.chunk.js.map",
     "runtime-main.js": "/barcode-gen/static/js/runtime-main.6245b13b.js",
     "runtime-main.js.map": "/barcode-gen/static/js/runtime-main.6245b13b.js.map",
     "static/js/2.b09b8305.chunk.js": "/barcode-gen/static/js/2.b09b8305.chunk.js",
     "static/js/2.b09b8305.chunk.js.map": "/barcode-gen/static/js/2.b09b8305.chunk.js.map",
     "index.html": "/barcode-gen/index.html",
-    "precache-manifest.e95cb37806bde3cf42b73bb62b357602.js": "/barcode-gen/precache-manifest.e95cb37806bde3cf42b73bb62b357602.js",
+    "precache-manifest.5b3891408aa7fdd8dbb36f6af2393a39.js": "/barcode-gen/precache-manifest.5b3891408aa7fdd8dbb36f6af2393a39.js",
     "service-worker.js": "/barcode-gen/service-worker.js",
     "static/css/main.26e2baf8.chunk.css.map": "/barcode-gen/static/css/main.26e2baf8.chunk.css.map",
     "static/js/2.b09b8305.chunk.js.LICENSE.txt": "/barcode-gen/static/js/2.b09b8305.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6245b13b.js",
     "static/js/2.b09b8305.chunk.js",
     "static/css/main.26e2baf8.chunk.css",
-    "static/js/main.3a554cda.chunk.js"
+    "static/js/main.69274fdd.chunk.js"
   ]
 }
