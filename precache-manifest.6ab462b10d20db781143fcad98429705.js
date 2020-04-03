@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8088b1a0fa1971bb65696c05de29cc3f",
+    "revision": "f0b922670833866c8675f06c1e4b1784",
     "url": "/outstanding1301/barcode-gen/index.html"
   },
   {
